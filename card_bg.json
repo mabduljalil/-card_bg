@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "updated_at": "2026-06-18",
+  "items": [
+    {
+      "name": "Abstract Blue",
+      "thumbnail": "https://res.cloudinary.com/YOUR_CLOUD/image/upload/w_400/v1/card_bg/blue_abstract.webp",
+      "full": "https://res.cloudinary.com/YOUR_CLOUD/image/upload/v1/card_bg/blue_abstract.webp"
+    },
+    {
+      "name": "Dark Premium",
+      "thumbnail": "https://res.cloudinary.com/YOUR_CLOUD/image/upload/w_400/v1/card_bg/dark_premium.webp",
+      "full": "https://res.cloudinary.com/YOUR_CLOUD/image/upload/v1/card_bg/dark_premium.webp"
+    }
+  ]
+}
